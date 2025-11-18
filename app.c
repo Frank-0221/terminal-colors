@@ -1,6 +1,6 @@
 #include <stdio.h>
 // TODO: Add the include directive for the custom library header file here
-#include "console_utils.h"
+#include "term_utils.h"
 int main(void) {
     
     // TODO: Call the function from the library to clear the screen
